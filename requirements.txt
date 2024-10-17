@@ -1,6 +1,5 @@
 numpy
-pandas
+kaggle
 matplotlib
-jupyter
-pathlib
-os
+scikit-learn
+tensorflow
